@@ -3,12 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://singhcse.github.io
+title:            Geeky Blog
+tagline:          'Home'
+description:      'In ❤️ with programming'
+url:               https://singhcse.github.io/
 baseurl:          '/geeky'
-                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
@@ -51,8 +50,17 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
+github:
+  repo:             https://github.com/singhcse/
+
+linkedin:
+  profile:             https://www.linkedin.com/in/singhshubham01/
+
+email:
+  address:             mailto:singhcse01@gmail.com
+
 disqus:
-  shortname:      hydeout
+  shortname:             saqibns-github-io
 
 google_analytics: UA-100461102-1
 
